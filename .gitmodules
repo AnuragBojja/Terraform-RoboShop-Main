@@ -1,0 +1,3 @@
+[submodule "40-databases"]
+	path = 40-databases
+	url = https://github.com/AnuragBojja/terraform-aws-40-databases.git

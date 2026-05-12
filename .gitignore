@@ -1,6 +1,9 @@
 # Terraform directories
 .terraform/
+# Ignore nested git repos
+**/.git
 .git
+40-database/.git
 # Terraform state files
 *.tfstate
 *.tfstate.*
