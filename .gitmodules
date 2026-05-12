@@ -1,3 +1,6 @@
 [submodule "40-databases"]
 	path = 40-databases
-	url = https://github.com/AnuragBojja/terraform-aws-40-databases.git
+	url = https://github.com/AnuragBojja/terraform-aws-40-databases
+[submodule "80-service"]
+	path = 80-service
+	url = https://github.com/AnuragBojja/terraform-aws-80-service
